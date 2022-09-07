@@ -3,6 +3,7 @@ package PrototypePattern;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class Registry {
     private Map<ItemType, Item> itemMap = new HashMap<>();
 

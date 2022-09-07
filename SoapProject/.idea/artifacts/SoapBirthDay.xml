@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SoapBirthDay">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoapBirthDay</output-path>
+    <root id="root" />
+  </artifact>
+</component>
